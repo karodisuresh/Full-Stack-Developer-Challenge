@@ -22,7 +22,7 @@ API integration changed
 Designing part every thing working fine
 This is a private ReactJS project named Full-Stack-Developer-Challenge
 
-Dependencies
+# Dependencies
     **"@react-oauth/google": "^0.12.1",
     **"@testing-library/jest-dom": "^5.17.0",
     **"@testing-library/react": "^13.4.0",
@@ -35,7 +35,7 @@ Dependencies
     **"react-router-dom": "^6.26.1",
     **"react-scripts": "5.0.1",
     **"web-vitals": "^2.1.4"
-Scripts
+# Scripts
 start: set PORT=3000 && react-scripts start
 
 ESLint Configuration
@@ -64,7 +64,7 @@ start: set PORT=3000 && react-scripts start
 
 # Development
 Clone the repository:
-# git clone  https://github.com/karodisuresh/Full-Stack-Developer-Challenge.git
+git clone  https://github.com/karodisuresh/Full-Stack-Developer-Challenge.git
  cd Full-Stack-Developer-Challenge
 Switching to branch
 git checkout master
