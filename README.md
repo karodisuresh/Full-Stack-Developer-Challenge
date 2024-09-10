@@ -65,8 +65,11 @@ start: set PORT=3000 && react-scripts start
 # Development
 Clone the repository:
 git clone  https://github.com/karodisuresh/Full-Stack-Developer-Challenge.git
- cd Full-Stack-Developer-Challenge
+
+cd Full-Stack-Developer-Challenge
+
 Switching to branch
+
 git checkout master
 
 # npm i
