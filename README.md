@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+# Full-Stack-Developer-Challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Full-Stack-Developer-Challenge is a React.js   Full-Stack-Developer-Challenge for frontend.
 
-## Available Scripts
+# Getting Started
+These instructions will help you set up the project on your local machine.
 
-In the project directory, you can run:
+Prerequisites
+Make sure you have Node.js and npm installed on your machine.
 
-### `npm start`
+Full-Stack-Developer-Challenge
+Full-Stack-Developer-Challenge App is a React.js web application that allows users to use Full-Stack-Developer-Challenge
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Project Details
+Name: Full-Stack-Developer-Challenge
+Version: 0.1.0
+Private: true
+Version: 0.1.0
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+MGT Dashboard Merged
+API integration changed
+Designing part every thing working fine
+This is a private ReactJS project named Full-Stack-Developer-Challenge
 
-### `npm test`
+Dependencies
+    **"@react-oauth/google": "^0.12.1",
+    **"@testing-library/jest-dom": "^5.17.0",
+    **"@testing-library/react": "^13.4.0",
+    **"@testing-library/user-event": "^13.5.0",
+    **"axios": "^1.7.7",
+    **"react": "^18.3.1",
+    **"react-dnd": "^16.0.1",
+    **"react-dnd-html5-backend": "^16.0.1",
+    **"react-dom": "^18.3.1",
+    **"react-router-dom": "^6.26.1",
+    **"react-scripts": "5.0.1",
+    **"web-vitals": "^2.1.4"
+Scripts
+start: set PORT=3000 && react-scripts start
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ESLint Configuration
+{
+  "extends": [
+    "react-app",
+    "react-app/jest"
+  ]
+}
+Browser Configuration
+{
+  "production": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ],
+  "development": [
+    "last 1 chrome version",
+    "last 1 firefox version",
+    "last 1 safari version"
+  ]
+}
 
-### `npm run build`
+# Scripts
+start: set PORT=3000 && react-scripts start
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Development
+Clone the repository:
+# git clone  https://github.com/karodisuresh/Full-Stack-Developer-Challenge.git
+ cd Full-Stack-Developer-Challenge
+Switching to branch
+git checkout master
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# npm i
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Setup environment variable according to above mentioned parameters
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# To start the development server, run:
+npm start
